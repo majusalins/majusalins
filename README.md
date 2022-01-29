@@ -1,9 +1,9 @@
 ### oi, tudo bem? maju aqui! (❁´◡`❁)
 
-- 🔭 estudante de sistemas de informação
-- 🌱 estou estudando html, css, javascript
-- 😄 pronomes: ela/dela
-- ⚡ fun fact: tive meu primeiro contato com programação no ensino médio, com curso técnico em informática, mas não me interessava muito. Um ano após me formar, voltei a me interessar por informática e agora estou sempre em busca de mais conhecimento na área ( •̀ ω •́ )✧
+- 💻 estudante de sistemas de informação
+- 📝 estudando html, css, javascript
+- ✨ ela/dela
+- ♥️ tive meu primeiro contato com programação no ensino médio, com curso técnico em informática, mas não me interessava muito. um ano após me formar, voltei a me interessar por informática e agora estou sempre em busca de mais conhecimento na área ( •̀ ω •́ )✧
 
 <div>
   <a href="https://github.com/majusalins">
