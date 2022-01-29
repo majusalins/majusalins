@@ -3,7 +3,7 @@
 - 💻 estudante de sistemas de informação
 - 📝 estudando html, css, javascript
 - ✨ ela/dela
-- ♥️ tive meu primeiro contato com programação no ensino médio, com curso técnico em informática, mas não me interessava muito. um ano após me formar, voltei a me interessar por informática e agora estou sempre em busca de mais conhecimento na área ( •̀ ω •́ )✧
+- ♥️ idiomas, duolingo, piercings, k-pop! ( •̀ ω •́ )✧
 
 <div>
   <a href="https://github.com/majusalins">
