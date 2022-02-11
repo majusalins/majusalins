@@ -1,7 +1,7 @@
 ### oi, tudo bem? maju aqui! (❁´◡`❁)
 
 - 💻 estudante de sistemas de informação
-- 📝 estudando html, css, javascript
+- 📝 estudando html, css, javascript, sql, java e python
 - ✨ ela/dela
 - ♥️ idiomas, duolingo, piercings, k-pop! ( •̀ ω •́ )✧
 
