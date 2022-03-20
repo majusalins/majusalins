@@ -3,7 +3,7 @@
 - 💻 estudante de sistemas de informação
 - 📝 estudando html, css, javascript, sql, java e python
 - ✨ ela/dela
-- ♥️ idiomas, duolingo, piercings! ( •̀ ω •́ )✧
+- ♥️ idiomas, duolingo! ( •̀ ω •́ )✧
 
 <div align="center">
   <a href="https://github.com/majusalins">
