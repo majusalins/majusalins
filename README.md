@@ -18,7 +18,7 @@
   <img align="center" alt="Maju-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Maju-Py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-  <img align="center" alt="Maju-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c#/c#-plain.svg">
+  <img align="center" alt="Maju-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
 
   ##
   
