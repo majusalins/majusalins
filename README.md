@@ -1,9 +1,9 @@
 ### oi, tudo bem? maju aqui! (❁´◡`❁)
 
-- 💻 estudante de sistemas de informação
+- 💻 estudante de análise e desenvolvimento de sistemas
 - 📝 estudando html, css, javascript, sql, java, python, c#
 - ✨ ela/dela
-- ♥️ idiomas, duolingo! ( •̀ ω •́ )✧
+- ♥️ idiomas, acessibilidade, duolingo! ( •̀ ω •́ )✧
 
 <div align="center">
   <a href="https://github.com/majusalins">
