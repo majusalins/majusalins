@@ -1,7 +1,7 @@
 ### oi, tudo bem? maju aqui! (❁´◡`❁)
 
-- 💻 estudante de análise e desenvolvimento de sistemas
-- 📝 estudando c#
+- 💻 estudante de análise e desenvolvimento de sistemas & ciência de dados
+- 📝 estudando c#, python & react native
 - ✨ ela/dela
 - ♥️ idiomas, acessibilidade, duolingo! ( •̀ ω •́ )✧
 
